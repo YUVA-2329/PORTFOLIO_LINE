@@ -1,0 +1,6 @@
+line_editor
+*.o
+*.out
+demo.txt
+test.txt
+notes.txt
