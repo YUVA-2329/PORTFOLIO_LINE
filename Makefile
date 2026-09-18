@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -std=c11 -Wall -Wextra -Wpedantic -O2
-TARGET = line_editor
+TARGET = line_edito
 
 all: $(TARGET)
 
